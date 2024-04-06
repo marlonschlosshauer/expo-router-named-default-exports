@@ -1,0 +1,36 @@
+Info 0    [21:42:01.267] Starting TS Server
+Info 1    [21:42:01.268] Version: 5.4.4
+Info 2    [21:42:01.268] Arguments: /opt/homebrew/Cellar/node/21.7.1/bin/node /Users/marlon/Projects/dumpster/my-app/node_modules/typescript/lib/tsserver.js --logFile /Users/marlon/Projects/dumpster/my-app/app/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/fw/1wgxp8_5155fynj8cgnk_hc40000gn/T/49de68bcc38f68d32f6dba256f115d4f/tscancellation*
+Info 3    [21:42:01.268] Platform: darwin NodeVersion: v21.7.1 CaseSensitive: false
+Info 4    [21:42:01.268] ServerMode: undefined hasUnknownServerMode: undefined
+Info 5    [21:42:01.274] Format host information updated
+Info 6    [21:42:01.303] Search path: /Users/marlon/Projects/dumpster/my-app/app
+Info 7    [21:42:01.303] For info: /Users/marlon/Projects/dumpster/my-app/app/_layout.tsx :: No config files found.
+Info 8    [21:42:01.305] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [21:42:02.046] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* projectStateVersion: 1 projectProgramVersion: 0 structureChanged: true structureIsReused:: Not Elapsed: 740.0995ms
+Info 10   [21:42:02.046] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [21:42:02.046] 	Files (393)
+
+Info 12   [21:42:02.046] -----------------------------------------------
+Info 13   [21:42:02.056] AutoImportProviderProject: found 6 root files in 6 dependencies in 9.049709000000007 ms
+Info 14   [21:42:02.057] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [21:42:02.113] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* projectStateVersion: 1 projectProgramVersion: 0 structureChanged: true structureIsReused:: Not Elapsed: 55.394457999999986ms
+Info 16   [21:42:02.113] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [21:42:02.113] 	Files (159)
+
+Info 18   [21:42:02.113] -----------------------------------------------
+Info 19   [21:43:22.360] Search path: /Users/marlon/Projects/dumpster/my-app/app/(tabs)
+Info 20   [21:43:22.360] For info: /Users/marlon/Projects/dumpster/my-app/app/(tabs)/_layout.tsx :: No config files found.
+Info 21   [21:43:22.361] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 22   [21:43:22.445] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* projectStateVersion: 1 projectProgramVersion: 0 structureChanged: true structureIsReused:: Not Elapsed: 83.97675000000163ms
+Info 23   [21:43:22.445] Project '/dev/null/inferredProject2*' (Inferred)
+Info 24   [21:43:22.445] 	Files (384)
+
+Info 25   [21:43:22.445] -----------------------------------------------
+Info 26   [21:43:22.448] AutoImportProviderProject: found 7 root files in 7 dependencies in 2.021500000002561 ms
+Info 27   [21:43:22.448] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject2*
+Info 28   [21:43:22.468] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject2* projectStateVersion: 1 projectProgramVersion: 0 structureChanged: true structureIsReused:: Not Elapsed: 19.747999999992317ms
+Info 29   [21:43:22.468] Project '/dev/null/autoImportProviderProject2*' (AutoImportProvider)
+Info 30   [21:43:22.468] 	Files (163)
+
+Info 31   [21:43:22.468] -----------------------------------------------
